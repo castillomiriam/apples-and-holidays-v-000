@@ -78,3 +78,5 @@ holiday_hash.map do |season, holiday|
     if supply_array.include?("BBQ")
 end
 end
+end
+end
